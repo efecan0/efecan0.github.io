@@ -31,7 +31,7 @@ The Preprocessor carefully examined the code, cleaning up unnecessary parts and 
 
 After finishing with the Preprocessor, hello.i met the skilled Compiler. Shaped like a computer screen displaying lines of code, the Compiler said excitedly:
 
-**Compiler:** “Welcome, hello.i! I’m the Compiler, and my job is to compile your code. I will turn you into machine language!”
+**Compiler:** “Welcome, hello.i! I’m the Compiler, and my job is to compile your code into assembly language. Let’s get started!”
 
 The Compiler processed the code step by step, checking for syntax errors and ensuring it followed the rules of the language. It created an assembly file named hello.s.
 
