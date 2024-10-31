@@ -5,6 +5,15 @@ categories: ["Non-Cs"]
 tags: ["The Journey of Hello For Non-Cs"]
 ---
 
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
 ![alt text](../assets/images/first-blog/image.png)
 
 Once upon a time, in the magical world of coding, there was a young file named hello.c. One sunny morning, it set out on an exciting adventure inside the computer. But this journey was not just a regular walk; it was a quest to become a working program.
